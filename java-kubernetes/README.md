@@ -1,4 +1,4 @@
-<h3> Digital Innovation One: Rodando sua aplicação Java no Kubernetes. Do deploy ao debug sem medo! </h3>
+<h3> Digital Innovation One: Criando seu gerenciador de super heróis da Marvel e da DC em uma API reativa com Spring Boot </h3>
 
 Atividade de desenvolvimento de um ambiente Kubernetes local para que possamos aprender a tecnologia sem medo de errar.
 Aula ministrada por Sandro Giacomozzi, Software engineer, TOTVS.
